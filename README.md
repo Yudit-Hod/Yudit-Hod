@@ -1,4 +1,4 @@
-👋 Hi, I’m Yudit Hodorkovski
+👋 **Hi, I’m Yudit Hodorkovski**
 
 👀 I’m interested in **Machine and Deep Learning**
 
